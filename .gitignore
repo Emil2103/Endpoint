@@ -1,0 +1,3 @@
+mydev/
+__pycache__/
+.cache.sqlite
